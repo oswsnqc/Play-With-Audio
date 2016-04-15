@@ -13,6 +13,8 @@
 		831BED5C1B37B42500760292 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 831BED5B1B37B42500760292 /* Images.xcassets */; };
 		831BED5F1B37B42500760292 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 831BED5D1B37B42500760292 /* LaunchScreen.xib */; };
 		831BED6B1B37B42500760292 /* Play_With_AudioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 831BED6A1B37B42500760292 /* Play_With_AudioTests.swift */; };
+		831BED751B37B43500760292 /* 1a1a1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 831BED741B37B43500760292 /* 1a1a1.mp3 */; };
+		831BED771B37BA0900760292 /* bach1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 831BED761B37BA0900760292 /* bach1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		831BED641B37B42500760292 /* Play With AudioTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Play With AudioTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		831BED691B37B42500760292 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		831BED6A1B37B42500760292 /* Play_With_AudioTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Play_With_AudioTests.swift; sourceTree = "<group>"; };
+		831BED741B37B43500760292 /* 1a1a1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1a1a1.mp3; sourceTree = "<group>"; };
+		831BED761B37BA0900760292 /* bach1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bach1.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 			children = (
 				831BED541B37B42500760292 /* AppDelegate.swift */,
 				831BED561B37B42500760292 /* ViewController.swift */,
+				831BED761B37BA0900760292 /* bach1.mp3 */,
+				831BED741B37B43500760292 /* 1a1a1.mp3 */,
 				831BED581B37B42500760292 /* Main.storyboard */,
 				831BED5B1B37B42500760292 /* Images.xcassets */,
 				831BED5D1B37B42500760292 /* LaunchScreen.xib */,
@@ -192,6 +198,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				831BED751B37B43500760292 /* 1a1a1.mp3 in Resources */,
+				831BED771B37BA0900760292 /* bach1.mp3 in Resources */,
 				831BED5A1B37B42500760292 /* Main.storyboard in Resources */,
 				831BED5F1B37B42500760292 /* LaunchScreen.xib in Resources */,
 				831BED5C1B37B42500760292 /* Images.xcassets in Resources */,
